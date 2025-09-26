@@ -5,6 +5,7 @@ This repository contains my **Klipper configuration and backup files**.
 Modifications:
 - **MAINLINE KLIPPER**
 - **PROBE** BTT Eddy
+- **NOZZLE UPGRADE** 0.8 Hardened Steel
 
 The purpose of this repo is to keep my printer settings version-controlled, easy to restore, and publicly accessible for reference or troubleshooting.  
 
